@@ -1,2 +1,2 @@
-# haxe-tinymce-react
-Haxe externs for tinymce-react
+# haxe-material-ui-search-bar
+Haxe externs for material-ui-search-bar
